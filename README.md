@@ -2,7 +2,7 @@
 
 PyBuddy est une bibliothèque Python moderne pour contrôler les périphériques iBuddy USB. Cette version est un portage Python 3.10+ du projet original PyBuddy, avec des améliorations pour une meilleure compatibilité avec les systèmes modernes.
 
-![iBuddy Device](https://github.com/yourusername/pybuddy/raw/main/docs/ibuddy.jpg) *(Ajoutez une image de votre iBuddy)*
+![iBuddy Device](https://incubaweb.com/wp-content/uploads/2007/10/ibuddy.jpg) 
 
 ## 🚀 Fonctionnalités
 
@@ -142,12 +142,6 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 - Projet original PyBuddy par Jose.Carlos.Luna@gmail.com et luis.peralta@gmail.com
 - Basé sur le travail de ewall <e@ewall.org>
 - Inspiration du projet [PyMissile](http://scott.weston.id.au/software/pymissile/)
-
-## 📧 Contact
-
-Pour toute question ou suggestion, n'hésitez pas à :
-- Ouvrir une issue
-- Me contacter via [votre email ou autre moyen de contact]
 
 ---
 *Note : Ce projet n'est pas affilié avec les fabricants originaux de iBuddy.*
